@@ -15,7 +15,7 @@ function Home() {
             <div className="info">
               <p className="front-sec"> Hi, my name is </p>
               <h1 className="name"> Kulveer Singh </h1>
-              <h2 className="about-you"> I am a web developer </h2>
+              <h2 className="about-you"> Front-end Web Developer </h2>
 
               <a class="btn btn-outline-primary" href="#portfolio">
                 View Portfolio
