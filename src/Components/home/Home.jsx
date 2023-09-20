@@ -20,7 +20,7 @@ function Home() {
               <a class="btn btn-outline-primary" href="#portfolio">
                 View Portfolio
               </a>
-              <a href="https://drive.google.com/file/d/1qRTHkpjx6WHIUyr43RtrO1Bl4G_zx6nc/view?usp=sharing" class="btn btn-outline-dark" download={resume} >
+              <a href="https://drive.google.com/file/d/1qRTHkpjx6WHIUyr43RtrO1Bl4G_zx6nc/view?usp=sharing" class="btn btn-outline-dark" target="_blank" >
                 GET RESUME
               </a>
             </div>
